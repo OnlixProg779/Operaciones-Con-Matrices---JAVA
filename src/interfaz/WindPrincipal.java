@@ -26,9 +26,6 @@ public class WindPrincipal {
 	JPanel panelSuma, panelResta, panelMultiplicacion, panelEscalar, panelDeterminante, panelAdjunta,
 			panelInversa, panelSel;
 	private JFrame frame;
-
-	
-	
 	
 	public static JPanel ts;
 	public static JPanel tr;
@@ -44,19 +41,12 @@ public class WindPrincipal {
 	public static JPanel ps;
 	
 	
-	
-	
-	
-	
-	
-	
-	 JPanel teoria;
+	JPanel teoria;
 	private JPanel panel;
 	private JScrollPane scrollPane;
 	private JPanel panel_1;
-	/**
-	 * Launch the application.
-	 */
+	
+	
 
 	private void mostrar(JPanel mostrar) {
 		panelSuma.setVisible(false);
